@@ -55,4 +55,4 @@ KEY OBSERVATIONS
 
 Sales by Order month
 
-https://i.postimg.cc/MHSRLz59/1.jpg
+![image](https://github.com/user-attachments/assets/b9e116d9-a677-4c7a-8a6f-2aaf10a82943)
