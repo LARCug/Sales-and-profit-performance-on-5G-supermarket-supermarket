@@ -56,3 +56,63 @@ KEY OBSERVATIONS
 Sales by Order month
 
 ![image](https://github.com/user-attachments/assets/b9e116d9-a677-4c7a-8a6f-2aaf10a82943)
+
+Across the years,customers mostly made orders in the February month generating $105k. The supermarket also made top sales above the average sales value of $53k across the months February,January,March,August,April,May,July generating $105k,$96k,$72,$69,$68k and $54k respectively. In the month of February, customers made orders mostly on Wednesdays,made top sales in tthe Lafayette city and mostly used the standard class shipping mode to delivery ordered products. The highest revenue generated was in February 2016 making $43k in sales while the highest profit as generated in February 2016 with $14k in total, Technology products were sold mostly un this month with top customer being Mr.Tamara Chand purchasing goods of $18k nd generating $9k for the supermarket.
+
+Sales by Order day
+
+![image](https://github.com/user-attachments/assets/f3d6aa07-8ee9-406c-9d08-26d4d5d73ebc)
+
+From the Analysis,customers ordered mostly on Tuesdays generating a sales amount of $106k across the years. This is seconded by Sunday and Saturdays and among all days of the week,the aforementioned made sales pass the average weekly sales of $90.38k. 64% of the customers order shipped was done mostly through the standard class shipping mode especially in the New york city while 57% of products ordered were technological products. The peak sales and profit of $38k & $7k respectively was made mostly on Tuesdays in the year 2016. The top customer here who purchased more on Tuesdays was Sanjit Engle who made purchases of $8.8k and generated a profit of $2.8k for the supermarket.
+
+Order by ship mode
+
+![image](https://github.com/user-attachments/assets/d757a488-a786-432c-b26c-90ac637775c4)
+
+Customers preferred the Standard class shipping which contributed 70.04% of the total order by the customers especially in Newyork city. Customers mostly made orders with the standard class in the February especially on Sundays and purchased most Technological products. The Customer Mr.Tamara Chand contributed highly to this while the standard class shipping mode generated the highest sles and profit respecively in the year 2016.
+
+Sales by region and city
+
+![image](https://github.com/user-attachments/assets/d8f1b87b-8ed0-4d3d-ab40-e90caa443f0a)
+
+Regionally,sales were made more in the Western region. This is seconded by Eastern,Central and Southern region. New york city generated the highest revenue generating $74k in sales. This was seconded by los Angeles and San Francisco which generated a revenue of $49k and $31k respectively. New york,Los Angeles and San Francisco made sales above the average city sales of $16k.
+
+Sales & Profit by year
+
+![image](https://github.com/user-attachments/assets/8774e637-2200-4a19-8b40-f0f4fa8b78c4)
+
+Across the years,5G superstore had a gradual trajectory increase and slight decrease in sales and profit generation. The generated the highest revenue in the year 2016 making $203k in sales and $37k in profit. The least sales and profit made was in 2014 and 2015 making $110k in sales and $13k in profit.
+
+Top 10 customers by sales & profit
+
+![image](https://github.com/user-attachments/assets/60b2720c-50c8-4933-b2ad-1946d0bc7dfb)
+
+Across the years,the customer Tamara Chand made the highest product order of $18k in sales for the supermarket generating a profit of $9k. Unfortunately, some customers like Becky Martin and Grant Thornton placed some order of $11k and $9k respectively but generating loss of $1k and $4k respectively. This could be as a result from the sales persons who don't return the actual issued receipt to the supermarket for daily sales report overview thereby stealing from the company. This can also be attributed to the poor supermarket management that fail to paste fixed price tags on available products in stock to avoid unnecessary bargain from stubborn customers.
+
+Sales by Category & sub-category
+
+![image](https://github.com/user-attachments/assets/309410ae-341a-4da7-8b81-be1f449ed465)
+
+![image](https://github.com/user-attachments/assets/c7d81932-c874-4336-a137-4fc50e9497af)
+
+From the chart,it shows that Technology products were orders mostly by customers. It contributed to 41% of the total sales made across the whole regions and states when compared to Furniture and office supplies. Generally,csutomers bought more of chairs,seconded by phones and machines product with some products generating losses for the supermarket. This can also be attributed to the poor supermarket management that fail to paste fixed price tags on available products in stock to avoid unnecessary bargain from stubborn customers.
+
+KEY RECOMMENDATIONS
+
+Since all customer segments(Consumer,Co-operate and Home-office customers) made their purchases mostly in the first quarter of the year, I recommend that the supermarket offer discounts on sales in this first quarter of the year for customer retention and loyalty. This will in-turn generate more revenue for them especially in top performing regions and cities. For the products that are generating losses in sales, I suggest the supermarket to ensure fixed prices and pasted on all products to ensure profit is generated. I also recommend that the all salespersons use the company receipts to ensure proper tracking of sales. This can be done by comparing the total sales made by each salesperson per day and the total product IDs. If both don't match, they should be called for questioning and retrenchment.
+
+I recommend all top products making sales in various regions and states should be made sure they're never out of stock. Their should be weekly stock inventory to ensure the product deficits are communicated to suppliers on time to avoid losing customers to competitors.
+
+In regions were have excess losses in sales, there should be track inventory on the receipts submitted to checkmate the salesperson and to ensure theft is controlled. Also, the management should also impend fixed prices on products to avoid uncontrolled pricing of products below cost price.
+
+Since the shipping mode preffered by customers is the standard class especially because it's cost effctive and takes longer days to deliver goods,I recommend optimize delivery times by clearly communicating estimated delivery windows during checkout to manage customer expectations,enhance last-mile logistics by partnering with reliable carriers or improve internal logistics to ensure on-time delivery and most of all strategically position warehouses at different states especially top performing states to reduce shipping times and costs for customers.
+For the top performing customers,I recommend the supermarket offer personalized discounts or services(like  to increase purchase frequency or value from them. This will also serve as channel for personalized promotion from customers as the tend to refer more and more customers thereby making them have dominance above their competitors.
+
+CONCLUSION
+
+Numbers don't lie.
+
+This report serves as a diagnostic tool to highlight strengths, weaknesses, and opportunities in the 5G supermarket’s sales and profit performance. It provides actionable insights for strategic planning, enabling informed decisions for the stakeholders to enhance revenue growth and profitability
+
+Analytical tool used- Power Bi
+
